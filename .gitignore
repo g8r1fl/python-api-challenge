@@ -130,3 +130,5 @@ dmypy.json
 
 # config file
 config.py
+api_keys.py
+.DS_Store
