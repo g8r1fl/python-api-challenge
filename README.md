@@ -16,3 +16,8 @@
 
   ![southern humidity](/output_data/south_lat_humidity_lr.png)
 
+
+## Combined heatmap  
+
+  ![heat map](/output_data/combined_map.png)    
+
